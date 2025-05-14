@@ -1,0 +1,145 @@
+"run","Controller","waste","box","parameter","value"
+"10","Reactor 2","food_waste","1","total frass yield [g]",1546
+"10","Reactor 2","food_waste","2","total frass yield [g]",1565
+"10","Reactor 2","food_waste","3","total frass yield [g]",1754
+"10","Reactor 3","food_waste","1","total frass yield [g]",1258
+"10","Reactor 3","food_waste","2","total frass yield [g]",1273
+"10","Reactor 3","food_waste","3","total frass yield [g]",1310
+"10","Reactor 4","food_waste","1","total frass yield [g]",1841
+"10","Reactor 4","food_waste","2","total frass yield [g]",1802
+"10","Reactor 4","food_waste","3","total frass yield [g]",1815
+"10","Reactor 2","food_waste","1","frass MC [%]",68.8845079678002
+"10","Reactor 2","food_waste","2","frass MC [%]",68.1716865748414
+"10","Reactor 2","food_waste","3","frass MC [%]",69.1605237099791
+"10","Reactor 3","food_waste","1","frass MC [%]",55.1946168571263
+"10","Reactor 3","food_waste","2","frass MC [%]",56.1588284990144
+"10","Reactor 3","food_waste","3","frass MC [%]",61.3815891372812
+"10","Reactor 4","food_waste","1","frass MC [%]",56.1634725832779
+"10","Reactor 4","food_waste","2","frass MC [%]",54.864070095421
+"10","Reactor 4","food_waste","3","frass MC [%]",61.1639452120342
+"10","Reactor 2","food_waste","1","total larvae yield [g]",2271
+"10","Reactor 2","food_waste","2","total larvae yield [g]",2236
+"10","Reactor 2","food_waste","3","total larvae yield [g]",2037
+"10","Reactor 3","food_waste","1","total larvae yield [g]",1856
+"10","Reactor 3","food_waste","2","total larvae yield [g]",1867
+"10","Reactor 3","food_waste","3","total larvae yield [g]",1914
+"10","Reactor 4","food_waste","1","total larvae yield [g]",1290
+"10","Reactor 4","food_waste","2","total larvae yield [g]",1265
+"10","Reactor 4","food_waste","3","total larvae yield [g]",1372
+"10","Reactor 2","food_waste","1","larvae MC [%]",68.1215575765339
+"10","Reactor 2","food_waste","2","larvae MC [%]",68.1592039800995
+"10","Reactor 2","food_waste","3","larvae MC [%]",67.0829170829171
+"10","Reactor 3","food_waste","1","larvae MC [%]",68.0078539929829
+"10","Reactor 3","food_waste","2","larvae MC [%]",68.7097752468241
+"10","Reactor 3","food_waste","3","larvae MC [%]",69.1749685656253
+"10","Reactor 4","food_waste","1","larvae MC [%]",71.9133978287243
+"10","Reactor 4","food_waste","2","larvae MC [%]",72.087417644223
+"10","Reactor 4","food_waste","3","larvae MC [%]",72.3532193770691
+"10","Reactor 2","food_waste","1","larval weight [mg/larva]",209.485714285714
+"10","Reactor 2","food_waste","2","larval weight [mg/larva]",216.819047619048
+"10","Reactor 2","food_waste","3","larval weight [mg/larva]",214.462365591398
+"10","Reactor 3","food_waste","1","larval weight [mg/larva]",171.788461538462
+"10","Reactor 3","food_waste","2","larval weight [mg/larva]",169.543103448276
+"10","Reactor 3","food_waste","3","larval weight [mg/larva]",169.281481481481
+"10","Reactor 4","food_waste","1","larval weight [mg/larva]",129.377952755905
+"10","Reactor 4","food_waste","2","larval weight [mg/larva]",118.52380952381
+"10","Reactor 4","food_waste","3","larval weight [mg/larva]",129.36
+"10","Reactor 2","food_waste","1","larval weight [mg DM/larva]",68.3333333333333
+"10","Reactor 2","food_waste","2","larval weight [mg DM/larva]",69.6761904761905
+"10","Reactor 2","food_waste","3","larval weight [mg DM/larva]",71.6451612903226
+"10","Reactor 3","food_waste","1","larval weight [mg DM/larva]",59.4134615384615
+"10","Reactor 3","food_waste","2","larval weight [mg DM/larva]",58.3965517241379
+"10","Reactor 3","food_waste","3","larval weight [mg DM/larva]",57.6444444444444
+"10","Reactor 4","food_waste","1","larval weight [mg DM/larva]",39.9212598425197
+"10","Reactor 4","food_waste","2","larval weight [mg DM/larva]",37.1238095238095
+"10","Reactor 4","food_waste","3","larval weight [mg DM/larva]",38.81
+"10","Reactor 2","food_waste","1","total frass yield [g DM]",481.045506817808
+"10","Reactor 2","food_waste","2","total frass yield [g DM]",498.113105103732
+"10","Reactor 2","food_waste","3","total frass yield [g DM]",540.924414126967
+"10","Reactor 3","food_waste","1","total frass yield [g DM]",563.651719937351
+"10","Reactor 3","food_waste","2","total frass yield [g DM]",558.098113207547
+"10","Reactor 3","food_waste","3","total frass yield [g DM]",505.901182301616
+"10","Reactor 4","food_waste","1","total frass yield [g DM]",807.030469741853
+"10","Reactor 4","food_waste","2","total frass yield [g DM]",813.349456880514
+"10","Reactor 4","food_waste","3","total frass yield [g DM]",704.874394401579
+"10","Reactor 2","food_waste","1","total larvae yield [g DM]",723.959427436916
+"10","Reactor 2","food_waste","2","total larvae yield [g DM]",711.960199004975
+"10","Reactor 2","food_waste","3","total larvae yield [g DM]",670.520979020979
+"10","Reactor 3","food_waste","1","total larvae yield [g DM]",593.774229890237
+"10","Reactor 3","food_waste","2","total larvae yield [g DM]",584.188496141793
+"10","Reactor 3","food_waste","3","total larvae yield [g DM]",589.991101653932
+"10","Reactor 4","food_waste","1","total larvae yield [g DM]",362.317168009457
+"10","Reactor 4","food_waste","2","total larvae yield [g DM]",353.094166800579
+"10","Reactor 4","food_waste","3","total larvae yield [g DM]",379.313830146612
+"10","Reactor 2","food_waste","1","BCR [%]",29.8095178205128
+"10","Reactor 2","food_waste","2","BCR [%]",29.3409142591258
+"10","Reactor 2","food_waste","3","BCR [%]",26.6765682958107
+"10","Reactor 3","food_waste","1","BCR [%]",23.5409082003132
+"10","Reactor 3","food_waste","2","BCR [%]",23.6838581678246
+"10","Reactor 3","food_waste","3","BCR [%]",24.2946443926459
+"10","Reactor 4","food_waste","1","BCR [%]",15.7256677527033
+"10","Reactor 4","food_waste","2","BCR [%]",15.4100111870467
+"10","Reactor 4","food_waste","3","BCR [%]",16.7610212880568
+"10","Reactor 2","food_waste","1","BCR [% DM]",35.9503793663911
+"10","Reactor 2","food_waste","2","BCR [% DM]",35.3449753242445
+"10","Reactor 2","food_waste","3","BCR [% DM]",33.2542182873228
+"10","Reactor 3","food_waste","1","BCR [% DM]",27.8274859279245
+"10","Reactor 3","food_waste","2","BCR [% DM]",27.3694400910731
+"10","Reactor 3","food_waste","3","BCR [% DM]",27.646712480175
+"10","Reactor 4","food_waste","1","BCR [% DM]",16.000512891781
+"10","Reactor 4","food_waste","2","BCR [% DM]",15.5799595741505
+"10","Reactor 4","food_waste","3","BCR [% DM]",16.7755320518723
+"10","Reactor 2","food_waste","1","BCR_percDM_wocp",37.7007229490452
+"10","Reactor 2","food_waste","2","BCR_percDM_wocp",37.0658431378314
+"10","Reactor 2","food_waste","3","BCR_percDM_wocp",34.8732918159269
+"10","Reactor 3","food_waste","1","BCR_percDM_wocp",30.8126172587448
+"10","Reactor 3","food_waste","2","BCR_percDM_wocp",30.3054355789329
+"10","Reactor 3","food_waste","3","BCR_percDM_wocp",30.6124517435963
+"10","Reactor 4","food_waste","1","BCR_percDM_wocp",18.5662118682273
+"10","Reactor 4","food_waste","2","BCR_percDM_wocp",18.0782223862761
+"10","Reactor 4","food_waste","3","BCR_percDM_wocp",19.4655061611984
+"10","Reactor 2","food_waste","1","WR_perc_wocp",80.6552533480602
+"10","Reactor 2","food_waste","2","WR_perc_wocp",80.3929311058953
+"10","Reactor 2","food_waste","3","WR_perc_wocp",77.783515118045
+"10","Reactor 3","food_waste","1","WR_perc_wocp",86.6315062819274
+"10","Reactor 3","food_waste","2","WR_perc_wocp",86.4244097749551
+"10","Reactor 3","food_waste","3","WR_perc_wocp",85.9135717244236
+"10","Reactor 4","food_waste","1","WR_perc_wocp",80.582355377606
+"10","Reactor 4","food_waste","2","WR_perc_wocp",81.1208062957338
+"10","Reactor 4","food_waste","3","WR_perc_wocp",80.9413226563579
+"10","Reactor 2","food_waste","1","WR_percDM_wocp",81.4459520202218
+"10","Reactor 2","food_waste","2","WR_percDM_wocp",80.542904491866
+"10","Reactor 2","food_waste","3","WR_percDM_wocp",78.2777558662981
+"10","Reactor 3","food_waste","1","WR_percDM_wocp",83.9733481514629
+"10","Reactor 3","food_waste","2","WR_percDM_wocp",84.2671897773785
+"10","Reactor 3","food_waste","3","WR_percDM_wocp",87.0289321533537
+"10","Reactor 4","food_waste","1","WR_percDM_wocp",77.9942608602194
+"10","Reactor 4","food_waste","2","WR_percDM_wocp",77.6599229163749
+"10","Reactor 4","food_waste","3","WR_percDM_wocp",83.3993442115567
+"10","Reactor 2","food_waste","1","waste reduction [%]",79.3011112598741
+"10","Reactor 2","food_waste","2","waste reduction [%]",79.0467264694069
+"10","Reactor 2","food_waste","3","waste reduction [%]",76.5162672379167
+"10","Reactor 3","food_waste","1","waste reduction [%]",83.6517218973359
+"10","Reactor 3","food_waste","2","waste reduction [%]",83.4567901234568
+"10","Reactor 3","food_waste","3","waste reduction [%]",82.9759584145549
+"10","Reactor 4","food_waste","1","waste reduction [%]",76.7550505050505
+"10","Reactor 4","food_waste","2","waste reduction [%]",77.2474747474748
+"10","Reactor 4","food_waste","3","waste reduction [%]",77.0833333333333
+"10","Reactor 2","food_waste","1","waste reduction [% DM]",75.7295316164901
+"10","Reactor 2","food_waste","2","waste reduction [% DM]",74.8684101660036
+"10","Reactor 2","food_waste","3","waste reduction [% DM]",72.708426323771
+"10","Reactor 3","food_waste","1","waste reduction [% DM]",73.0663994508113
+"10","Reactor 3","food_waste","2","waste reduction [% DM]",73.3317736526047
+"10","Reactor 3","food_waste","3","waste reduction [% DM]",75.825957981662
+"10","Reactor 4","food_waste","1","waste reduction [% DM]",63.2007701406192
+"10","Reactor 4","food_waste","2","waste reduction [% DM]",62.9126349723543
+"10","Reactor 4","food_waste","3","waste reduction [% DM]",67.8589150792874
+"10","Reactor 2","food_waste","1","total water removed [g]",2874.98506048646
+"10","Reactor 2","food_waste","2","total water removed [g]",2896.05343034045
+"10","Reactor 2","food_waste","3","total water removed [g]",2907.42551937969
+"10","Reactor 3","food_waste","1","total water removed [g]",3645.68042585668
+"10","Reactor 3","food_waste","2","total water removed [g]",3604.54108537843
+"10","Reactor 3","food_waste","3","total water removed [g]",3474.14675998464
+"10","Reactor 4","food_waste","1","total water removed [g]",3765.28416108149
+"10","Reactor 4","food_waste","2","total water removed [g]",3826.38014701127
+"10","Reactor 4","food_waste","3","total water removed [g]",3624.12474787837
